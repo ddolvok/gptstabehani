@@ -2,6 +2,3 @@ streamlit
 openai
 requests
 Pillow
-BytesIO
-base64
-os
